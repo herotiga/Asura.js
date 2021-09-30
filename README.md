@@ -7,4 +7,5 @@ A crawler framework based on node.js
 ```bash
 cnpm install request
 cnpm install cheerio
+node Asura.js
 ```
